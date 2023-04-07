@@ -2,12 +2,14 @@
 
 ### Installation 
 min requirements 
-1。 Julia 1。8+
+
+1. Julia 1.8+
 
 recommend enviroment： 
-1。 to use leiden function for cluster， a python enviroment with leiden installed is required
-2。 for enrichment plot， a R enviroment with clusterProfilers installed is required
-3。 to run Seurat in Julia
+
+1. to use leiden function for cluster， a python enviroment with leiden installed is required
+2. for enrichment plot， a R enviroment with clusterProfilers installed is required
+3. to run Seurat in Julia
 
 installation from github 
 ```julia
