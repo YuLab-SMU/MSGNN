@@ -13,7 +13,7 @@ recommend enviroment：
 
 installation from github 
 ```julia
-pkg.dev(https://github.com/timze216/myPackage/MSGNN)
+pkg.dev(https://github.com/timze216/MSGNN) # url may be update after repo change
 ```
 for R user，  [JuliaCall](https://cran.r-project.org/web/packages/JuliaCall/readme/README.html) provides seamless Integration of R and Julia.
 
